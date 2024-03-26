@@ -1,0 +1,10 @@
+//This is a comment
+a=   8.   //   bro1
+val_4=4
+9_bro=.5
+res_op = a * 5.2-4.5/ (2*val_4)//Hello world!
+b=7
+a = 5.e9 *(-8.6.4 - b)/       6.1E-8.4
+d = a ^ b/14E3.5 
+a = tt32yy**((-8.6 - b)/6
+
